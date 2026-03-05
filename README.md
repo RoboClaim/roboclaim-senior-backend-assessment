@@ -9,11 +9,26 @@ This repository contains the technical assessment instructions for candidates pr
 - **Deliverables:** Hosted backend + hosted UI + public Git repository (with Docker + docs)
 
 ## Full instructions
-Please follow the full spec here: **ASSESSMENT.md**
+Please complete the assessment described in [ASSESSMENT.md](./ASSESSMENT.md).
 
 ## Submission (reply with)
 - Hosted Backend URL
 - Hosted UI URL
 - Git repository link
+
+## Suggested Hosting Options
+
+You may use any hosting platform you prefer. Free tiers are acceptable.
+
+Examples include:
+
+- Render
+- Railway
+- Fly.io
+- Vercel
+- Netlify
+- AWS
+
+## Confidentiality
 
 > Please do not redistribute this assessment outside your application process.
